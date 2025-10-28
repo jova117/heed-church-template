@@ -1,6 +1,8 @@
 # HEED Church Template
 
 A clean, ready-to-deploy demo template for multi-campus churches. This repo contains only the demo application—no marketing content.
+⚠️ This is a template repository. Please use "Use this template" button to create your own copy. 
+Direct commits and pull requests are not accepted.
 
 ## Quickstart
 
