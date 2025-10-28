@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "buildCommand": "npm run vercel-build",
+  "framework": "nextjs",
+  "outputDirectory": ".next",
+  "installCommand": "npm install --no-audit --no-fund"
+}
+
